@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This repo is created to facilitate learning of GitHub
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- How to use and navigate GitHub
+- How to manage issues, pull, and merge requests
+- How to create proper folder structure for organisation and necessary content to assist contributors
 
 ## Getting started
 
