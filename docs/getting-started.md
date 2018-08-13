@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+This is a script repository. No installation is required.
+Scripts is provided AS-IS and can be executed using either command prompt (cmd) or PowerShell.
